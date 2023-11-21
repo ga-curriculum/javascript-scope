@@ -1,6 +1,6 @@
 # ![JavaScript Scope - Concepts](./assets/hero.png)
 
-**Learning Objective**: By the end of this lesson, students will students will be able to clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.
+**Learning Objective**: By the end of this lesson, students will be able to clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.
 
 ## What is scope?
 
