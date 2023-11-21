@@ -88,8 +88,8 @@ In JavaScript, both block and function scope are mechanisms that limit the visib
 
 So, if these two types of scope are similar, why do we refer to them separately?
 
-1) Variables declared with the `var` keyword do not respect block scope. This means that `var` is generally less safe and can complicate scope. Therefore, its usage is frowned upon, so we don't use it in our examples, and neither should you when you write code. If you want to learn more about why you shouldn't use it, check out the [`var` Level Up](../level-up/var.md).
-2) Variables in a function's scope only exist while the function executes unless the function creates a closure. Closures are a complex topic not covered here. For more info check out [MDN Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
+1. Variables declared with the `var` keyword do not respect block scope. This means that `var` is generally less safe and can complicate scope. Therefore, its usage is frowned upon, so we don't use it in our examples, and neither should you when you write code. If you want to learn more about why you shouldn't use it, check out the [`var` Level Up](../level-up/var.md).
+2. Variables in a function's scope only exist while the function executes unless the function creates a closure. Closures are a complex topic not covered here. For more info check out [MDN Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures).
 
 ## ❓ Review Questions
 
