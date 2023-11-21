@@ -2,7 +2,7 @@
 
 ## About
 
-Designed for learners ranging from beginner to advanced, this module takes students on an in-depth exploration of JavaScript scope— a foundational but often misunderstood aspect of coding. Students start with the basics of the scope chain, understanding how variables and functions interact in different layers of a program and advance to more nuanced topics like the 'var' keyword and global scope.
+Designed for learners ranging from beginner to advanced, this module takes students on an in-depth exploration of JavaScript scope — a foundational but often misunderstood aspect of coding. Students start with the basics of the scope chain, understanding how variables and functions interact in different layers of a program and advance to more nuanced topics like the `var` keyword and global scope.
 
 ## Prerequisites
 

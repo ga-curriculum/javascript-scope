@@ -1,0 +1,15 @@
+{
+  "name": "javascript-scope",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node validate.js"
+  },
+  "type": "module",
+
+  "author": "",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "markdownlint": "^0.32.1"
+  }
+}

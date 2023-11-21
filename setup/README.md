@@ -12,6 +12,7 @@ Make a new directory called `javascript-scope`, then enter this directory:
 mkdir javascript-scope
 cd javascript-scope
 ```
+
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
 
 ```bash

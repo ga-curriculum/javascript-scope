@@ -6,8 +6,14 @@ This release modularizes the legacy Javascript Scope lecture and provides extens
 
 ### Release details
 
-**Additions**
+#### Additions
 
-**Changes**
 
-**Removals**
+
+#### Changes
+
+
+
+#### Removals
+
+
