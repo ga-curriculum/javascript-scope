@@ -36,10 +36,16 @@
     integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" 
     crossorigin="anonymous"
   ></script>
-  <script>anchors.add();</script>
   <script 
     src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"
   ></script>
-  <script>hljs.highlightAll();</script>
+  <script 
+    src="https://unpkg.com/highlightjs-copy/dist/highlightjs-copy.min.js"
+  ></script>
+  <script>
+    anchors.add();
+    hljs.highlightAll();
+    hljs.addPlugin(new CopyButtonPlugin());
+  </script>
 </body>
 </html>
