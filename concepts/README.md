@@ -4,9 +4,9 @@
 
 ## What is scope?
 
-Think of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in JavaScript like a set of rules for accessing "tools" (variables and functions) in a workshop. Only certain tools are available for use in certain places, and those places are separated by physical barriers. 
+Think of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in JavaScript like a set of rules for accessing "tools" (variables and functions) in a workshop. Only certain tools are available for use in certain places, and those places are separated by physical barriers. In JavaScript, the location of your code (like where you put a tool) determines what you can access. A tool placed in a special room can't be used in the main workshop area. 
 
-In JavaScript, the location of your code (like where you put a tool) determines what you can access. A tool placed in a special room can't be used in the main workshop area. JavaScript scope is *lexical*, meaning that the code's physical structure determines scope. When a line of code doesn't have access to a variable or function, we can describe that variable or function as being "out of scope".
+JavaScript scope is *lexical*, meaning that the code's physical structure determines scope. When a line of code doesn't have access to a variable or function, we can describe that variable or function as being "out of scope".
 
 > 📚 In programming languages with *lexical* scope, like JavaScript, the location of your variables and functions within your code determines where they can be used. 
 
