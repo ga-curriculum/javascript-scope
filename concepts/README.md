@@ -1,18 +1,30 @@
 # ![JavaScript Scope - Concepts](./assets/hero.png)
 
-**Learning Objective**: By the end of this lesson, students will understand what lexical scope is in JavaScript and be able to explain why it's important for organizing variables, making code easy to read, and using computer memory efficiently. 
+**Learning Objective**: By the end of this lesson, students will students will be able to clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.
 
 ## What is scope?
 
-In general, the concept of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in programming refers to the variables and functions we can access from a given line of code.
+Think of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in JavaScript like a set of rules for accessing "tools" (variables and functions) in a workshop. Only certain tools are available for use in certain places, and those places are separated by physical barriers. 
 
-JavaScript scope is *lexical*, meaning that the code's physical structure determines scope.
+In JavaScript, the location of your code (like where you put a tool) determines what you can access. A tool placed in a special room can't be used in the main workshop area. JavaScript scope is *lexical*, meaning that the code's physical structure determines scope. When a line of code doesn't have access to a variable or function, we can describe that variable or function as being "out of scope".
+
+> 📚 In programming languages with *lexical* scope, like JavaScript, the location of your variables and functions within your code determines where they can be used. 
+
+Just as the placement of tools in a workshop dictates *where* they can be used, the placement of variables within the code defines their accessibility. In JavaScript, curly braces `{}` act like walls or dividers in the workshop. They create distinct areas or zones. Variables declared inside these braces belong to that specific area and can't be accessed outside of it, just like tools stored in a locked cabinet can't be used elsewhere in the workshop.
+
 
 ![Scope example](./assets/concepts.png)
 
-When a line of code doesn't have access to a variable or function, we can describe that variable or function as being "out of scope".
 
-> 📚 In languages with *lexical* scope, such as JavaScript, the accessibility of variables is determined based on their position within code.
+## Types of scope in JavaScript
+
+JavaScript has three types of scope:
+
+ - **Global Scope**: This is like the main area of the workshop, where tools are available to everyone, no matter where they are in the workshop.
+ 
+ - **Function Scope**: Consider this a special room in the workshop. The tools found here are only available to those working in this room.
+ 
+ - **Block Scope**: Imagine a toolbox inside the special room. The tools in this box are only available to those using this particular toolbox.
 
 ## Why does scope matter?
 
@@ -22,13 +34,6 @@ Scope is an essential concept because it determines exactly what variables you c
 - Code readability: Because a variable is confined to its scope, we can safely reuse the same variable name in different scopes. This can greatly assist readability. For example, if we have multiple loops, we can safely use the `i` variable name in each one.
 - Memory efficiency: When a variable is no longer in scope, it can be automatically removed from a computer's memory. We, as developers, don't have to think about or manage this process. This is known as garbage collection and is a benefit in higher-level languages like JavaScript.
 
-## Types of scope in JavaScript
-
-JavaScript has three types of scope:
-
-- **Global scope**
-- **Function scope**
-- **Block scope**
 
 ## Why the different types of scope?
 
