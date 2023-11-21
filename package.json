@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "mdvalidate": "node md-validate.js"
+    "mdv": "node md-validate.js"
   },
   "type": "module",
   "author": "General Assembly",
