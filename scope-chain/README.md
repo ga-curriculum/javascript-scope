@@ -61,9 +61,3 @@ Here's a diagram to help visualize how the different scopes in the code above ar
 This diagram identifies three different scopes and the identifiers (variables and functions) that live within each scope.
 
 > ❓ Does the above function `foo` have access to the variable `c`?
-
-## ❓ Review Questions
-
-- What happens when JS cannot find a particular variable or function?
-- Can we access variables and functions declared inside a function from outside of that function?
-- What is the name of the mechanism that allows JavaScript to find variables and functions when they are referenced in code?

@@ -44,9 +44,3 @@ Imagine that you are in a library. The entire library is the **global scope**. Y
 Now imagine that you go to the children's section. The children's section is a **local scope**. You can access anything in the children's section from inside the children's section, but you cannot access anything outside of the children's section unless you go outside the children's section, thereby re-entering **global scope**.
 
 For example, if you want to get a book from the non-fiction section, you have to leave the children's section and go to the non-fiction section.
-
-## ❓ Review Questions
-
-- True/false: variables declared in global scope are accessible anywhere.
-- Is a variable declared within a function in global scope?
-- Are there any drawbacks to declaring everything in global scope?
