@@ -1,4 +1,4 @@
-# ![JavaScript Scope - Instructor Guide](./assets/hero-instructor-guide.png)
+# ![JavaScript Scope - Instructor Guide](../assets/instructor-guide.png)
 
 ***Nothing here yet!***
 

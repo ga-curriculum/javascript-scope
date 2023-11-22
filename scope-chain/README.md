@@ -23,9 +23,9 @@ const greet = () => {
 greet();
 ```
 
-When this code is run, JavaScript will first look for the value of `name` in the `greet()` function, the scope where it is used. When it doesn't find it there, JavaScript will look one level up in the **global scope** where it will find `name` declared and set to the value "Burt". 
+When this code is run, JavaScript will first look for the value of `name` in the `greet()` function, the scope where it is used. When it doesn't find it there, JavaScript will look one level up in the **global scope** where it will find `name` declared and set to the value "Burt".
 
-In the example above, the `name` variable is defined in global scope, making it accessible from anywhere in the code. The `message` variable is declared in the function scope of the `greet()` function, so it's only accessible inside of that function. 
+In the example above, the `name` variable is defined in global scope, making it accessible from anywhere in the code. The `message` variable is declared in the function scope of the `greet()` function, so it's only accessible inside of that function.
 
 ## You can go up the scope chain but not down it!
 
@@ -54,7 +54,7 @@ const foo = (x) => {
 console.log(foo(a));
 ```
 
-Here's a diagram to help visualize how the different scopes in the code above are interacting with one another: 
+Here's a diagram to help visualize how the different scopes in the code above are interacting with one another:
 
 ![Scope example](./assets/scope-chain.png)
 

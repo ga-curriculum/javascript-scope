@@ -6,8 +6,8 @@ Designed for learners ranging from beginner to advanced, this module takes stude
 
 ## Prerequisites
 
- - Control Flow in Javascript
- - Intro to Javascript Functions
+- Control Flow in JavaScript
+- Intro to JavaScript Functions
 
 ## Content
 
@@ -37,7 +37,7 @@ Designed for learners ranging from beginner to advanced, this module takes stude
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
-🎥 [Video Guide](./internal-resources/video-hub/README.md)
+🎥 [Video Guide](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 

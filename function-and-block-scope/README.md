@@ -7,7 +7,6 @@
 Function scope and block scope behave similarly, so it makes sense to bundle these types of scope when we're thinking about them. Both function and block scope in JavaScript deal with where you can access a variable. Let's break it down:
 
 - **Function scope**: When you declare a variable inside a function, it can only be accessed within that function. This includes the function's parameters as well.
-
 - **Block scope**: Similarly, if you declare a variable inside a code block such as within an `if` statement or a `for` loop (including any variables defined inside the `( )`), you can only use that variable within that specific block.
 
 In simpler terms, if you declare a variable inside curly braces `{ }`, whether it's part of a function or a code block, that variable can only be used within those curly braces. This helps keep your code organized and avoids conflicts between variables.
@@ -34,7 +33,6 @@ console.log(numB);
 Above, you can see that `numB` isn't available outside the `addNums` function.
 
 > ❓ Is `numA` available outside of the `addNums` function?
-
 
 Let's look at another example:
 

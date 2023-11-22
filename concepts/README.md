@@ -4,17 +4,15 @@
 
 ## What is scope?
 
-Think of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in JavaScript as a set of rules for accessing tools (variables and functions) in a workshop. Only certain tools are available for use in certain places, and are separated by physical barriers. In JavaScript, the location of your code (like where you put a tool) determines what you can access. A tool placed in a special room can't be used in the main workshop area. 
+Think of [scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in JavaScript as a set of rules for accessing tools (variables and functions) in a workshop. Only certain tools are available for use in certain places, and are separated by physical barriers. In JavaScript, the location of your code (like where you put a tool) determines what you can access. A tool placed in a special room can't be used in the main workshop area.
 
 JavaScript scope is *lexical*, meaning the code's physical structure determines scope. When a line of code doesn't have access to a variable or function, we can describe that variable or function as being "out of scope".
 
-> 📚 In programming languages with *lexical* scope, like JavaScript, the location of your variables and functions within your code determines where they can be used. 
+> 📚 In programming languages with *lexical* scope, like JavaScript, the location of your variables and functions within your code determines where they can be used.
 
 Just as the placement of tools in a workshop dictates *where* they can be used, the placement of variables within the code defines their accessibility. In JavaScript, curly braces `{}` act like walls or dividers in the workshop. They create distinct areas or zones. Variables declared inside these braces belong to that specific area and can't be accessed outside of it, just like tools stored in a locked cabinet can't be used elsewhere in the workshop.
 
-
 ![Scope example](./assets/concepts.png)
-
 
 ## Types of scope in JavaScript
 
@@ -31,7 +29,6 @@ Scope is an essential concept because it determines exactly what variables you c
 - Variable isolation: A variable's use is confined to its scope, making it easier to reduce unintended side effects.
 - Code readability: Because a variable is confined to its scope, we can safely reuse the same variable name in different scopes. This can greatly assist readability. For example, if we have multiple loops, we can safely use the `i` variable name in each one.
 - Memory efficiency: When a variable is no longer in scope, it can be automatically removed from a computer's memory. We, as developers, don't have to think about or manage this process. This is known as garbage collection and is a benefit in higher-level languages like JavaScript.
-
 
 ## Why the different types of scope?
 
