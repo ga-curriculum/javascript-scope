@@ -1,5 +1,7 @@
 # ![JavaScript Scope - Level Up - More About Global Scope](./assets/hero-more-about-global-scope.png)
 
+**Learning objective:** By the end of this lesson, students will understand the concept of global scope in JavaScript, particularly the role of the window object in browsers.
+
 The `window` object represents the global scope in our browsers. This means it is at the top of the scope chain, and its properties are available to every function we write.
 
 It is generally bad practice for our programs to create variables in the global scope because this can overwrite data that JavaScript libraries, frameworks, or other routines use.
