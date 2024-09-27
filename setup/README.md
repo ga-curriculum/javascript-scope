@@ -1,4 +1,7 @@
-# ![JavaScript Scope - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Scope</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
