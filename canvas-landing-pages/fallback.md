@@ -21,12 +21,12 @@ Designed for learners ranging from beginner to advanced, this module takes stude
 
 ## Level Up content
 
-| Lesson                                                            | Video Time |                            Video                             | Skills                                                                                      |
-| ----------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | ------------------------------------------------------------------------------------------- |
-| [`var` Keyword](../level-up/var.md)                               |   10 min   | [link](https://generalassembly.wistia.com/medias/5hqthfdcu7) | Understanding the `var` keyword in JavaScript and its function-scoped behavior.             |
-| [More About Global Scope](../level-up/more-about-global-scope.md) |   4 min    | [link](https://generalassembly.wistia.com/medias/foy3sj3i15) | The `window` object, risks of pollution, and differences between `var`, `let`, and `const`. |
-| [Temporal Dead Zone](../level-up/temporal-dead-zone.md)           |   6 min    | [link](https://generalassembly.wistia.com/medias/xhurioyhxw) | Access before initialization, hoisting, and how it impacts variable initialization.         |
-| **Total Level Up content**                                        |   20 min   |                              --                              |                                                                                             |
+| Lesson                                                          | Video Time |                            Video                             | Skills                                                                                      |
+| --------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | ------------------------------------------------------------------------------------------- |
+| [`var` Keyword](../var/README.md)                               |   10 min   | [link](https://generalassembly.wistia.com/medias/5hqthfdcu7) | Understanding the `var` keyword in JavaScript and its function-scoped behavior.             |
+| [More About Global Scope](../more-about-global-scope/README.md) |   4 min    | [link](https://generalassembly.wistia.com/medias/foy3sj3i15) | The `window` object, risks of pollution, and differences between `var`, `let`, and `const`. |
+| [Temporal Dead Zone](../temporal-dead-zone/README.md)           |   6 min    | [link](https://generalassembly.wistia.com/medias/xhurioyhxw) | Access before initialization, hoisting, and how it impacts variable initialization.         |
+| **Total Level Up content**                                      |   20 min   |                              --                              |                                                                                             |
 
 ## References
 
