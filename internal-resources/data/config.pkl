@@ -31,5 +31,25 @@ courses {
       mls.temporalDeadZone
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.concepts
+      mls.functionAndBlockScope
+      mls.globalScope
+      mls.scopeChain
+      (mls.var) {
+        type = "Level Up content"
+      }
+      (mls.moreAboutGlobalScope) {
+        type = "Level Up content"
+      }
+      (mls.temporalDeadZone) {
+        type = "Level Up content"
+      }
+    }
+  }
 }
 
