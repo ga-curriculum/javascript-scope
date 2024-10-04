@@ -17,16 +17,10 @@ Designed for learners ranging from beginner to advanced, this module takes stude
 | [Function and Block Scope](../function-and-block-scope/README.md) |   12 min   | [link](https://generalassembly.wistia.com/medias/iz0ad8bx3n) | Differences and similarities between function and block scope, variable accessibility and usage.                                        |
 | [Global Scope](../global-scope/README.md)                         |   4 min    | [link](https://generalassembly.wistia.com/medias/85b4xpfl9t) | Definition, characteristics, and best practices for using global variables in JavaScript to avoid unintended side effects.              |
 | [The Scope Chain](../scope-chain/README.md)                       |   11 min   | [link](https://generalassembly.wistia.com/medias/0oprbcuhs4) | Understanding the JavaScript scope chain, variable and function resolution across different scopes, and the concept of scope isolation. |
-| **Total content**                                                 |   36 min   |                              --                              |                                                                                                                                         |
-
-## Level Up content
-
-| Lesson                                                          | Video Time |                            Video                             | Skills                                                                                      |
-| --------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | ------------------------------------------------------------------------------------------- |
-| [`var` Keyword](../var/README.md)                               |   10 min   | [link](https://generalassembly.wistia.com/medias/5hqthfdcu7) | Understanding the `var` keyword in JavaScript and its function-scoped behavior.             |
-| [More About Global Scope](../more-about-global-scope/README.md) |   4 min    | [link](https://generalassembly.wistia.com/medias/foy3sj3i15) | The `window` object, risks of pollution, and differences between `var`, `let`, and `const`. |
-| [Temporal Dead Zone](../temporal-dead-zone/README.md)           |   6 min    | [link](https://generalassembly.wistia.com/medias/xhurioyhxw) | Access before initialization, hoisting, and how it impacts variable initialization.         |
-| **Total Level Up content**                                      |   20 min   |                              --                              |                                                                                             |
+| [`var` Keyword](../var/README.md)                                 |   10 min   | [link](https://generalassembly.wistia.com/medias/5hqthfdcu7) | Understanding the `var` keyword in JavaScript and its function-scoped behavior.                                                         |
+| [More About Global Scope](../more-about-global-scope/README.md)   |   4 min    | [link](https://generalassembly.wistia.com/medias/foy3sj3i15) | The `window` object, risks of pollution, and differences between `var`, `let`, and `const`.                                             |
+| [Temporal Dead Zone](../temporal-dead-zone/README.md)             |   6 min    | [link](https://generalassembly.wistia.com/medias/xhurioyhxw) | Access before initialization, hoisting, and how it impacts variable initialization.                                                     |
+| **Total content**                                                 |   56 min   |                                                              |                                                                                                                                         |
 
 ## References
 

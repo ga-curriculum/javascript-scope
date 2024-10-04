@@ -3,7 +3,9 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-***Nothing here yet!***
+**_Nothing here yet._**
+
+---
 
 🏗️ **Under Construction**
 

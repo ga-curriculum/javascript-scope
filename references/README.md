@@ -9,9 +9,6 @@
 - [Wikipedia - Principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 - [MDN - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - [MDN - `let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
-
-## Level Up references
-
 - [MDN - `let` - Temporal dead zone (TDZ)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#temporal_dead_zone_tdz)
 - [MDN - `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 - [MDN - Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
