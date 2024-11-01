@@ -1,0 +1,60 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+functionAndBlockScope = new Template.Microlesson {
+  friendlyName = "Function and Block Scope"
+  dirName = "function-and-block-scope"
+  type = "Content"
+  videoUrl = ""
+}
+
+globalScope = new Template.Microlesson {
+  friendlyName = "Global Scope"
+  dirName = "global-scope"
+  type = "Content"
+  videoUrl = ""
+}
+
+scopeChain = new Template.Microlesson {
+  friendlyName = "The Scope Chain"
+  dirName = "scope-chain"
+  type = "Content"
+  videoUrl = ""
+}
+
+var = new Template.Microlesson {
+  friendlyName = "The  var  Keyword"
+  dirName = "var"
+  type = "Content"
+  videoUrl = ""
+}
+
+moreAboutGlobalScope = new Template.Microlesson {
+  friendlyName = "More About Global Scope"
+  dirName = "more-about-global-scope"
+  type = "Content"
+  videoUrl = ""
+}
+
+temporalDeadZone = new Template.Microlesson {
+  friendlyName = "Temporal Dead Zone"
+  dirName = "temporal-dead-zone"
+  type = "Content"
+  videoUrl = ""
+}
+

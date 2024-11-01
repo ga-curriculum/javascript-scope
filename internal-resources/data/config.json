@@ -1,0 +1,163 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "JavaScript Scope",
+    "name": "javascript-scope",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Function and Block Scope",
+          "dirName": "function-and-block-scope",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Global Scope",
+          "dirName": "global-scope",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Scope Chain",
+          "dirName": "scope-chain",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  var  Keyword",
+          "dirName": "var",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "More About Global Scope",
+          "dirName": "more-about-global-scope",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Temporal Dead Zone",
+          "dirName": "temporal-dead-zone",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Function and Block Scope",
+          "dirName": "function-and-block-scope",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Global Scope",
+          "dirName": "global-scope",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Scope Chain",
+          "dirName": "scope-chain",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  var  Keyword",
+          "dirName": "var",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "More About Global Scope",
+          "dirName": "more-about-global-scope",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Temporal Dead Zone",
+          "dirName": "temporal-dead-zone",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

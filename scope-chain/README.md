@@ -1,4 +1,7 @@
-# ![JavaScript Scope - The Scope Chain](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Scope</span>
+  <span class="subhead">The Scope Chain</span>
+</h1>
 
 **Learning Objective**: By the end of this lesson, students will be able to describe how JavaScript's scope chain locates variables and functions, and identify common errors in variable access across different scopes.
 
