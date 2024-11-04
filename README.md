@@ -32,7 +32,7 @@ Designed for learners ranging from beginner to advanced, this module takes stude
 - Control Flow in JavaScript
 - Intro to JavaScript Functions
 
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-scope/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-scope/canvas-landing-pages/seb)
